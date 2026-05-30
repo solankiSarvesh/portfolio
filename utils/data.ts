@@ -84,7 +84,7 @@ export const projectsData: Project[] = [
     image: "🎮",
     tech: ["Python", "AI Algorithms", "Minimax", "Game Logic"],
     github: "https://github.com/solankiSarvesh/Ai-powered-Tic-Tac-Toe",
-    demo: "https://github.com/solankiSarvesh/Ai-powered-Tic-Tac-Toe",
+    demo: "https://ai-powered-tic-tac-toe-6tr9lsiuryknydu7brueeu.streamlit.app/",
     featured: false
   }
 ];
