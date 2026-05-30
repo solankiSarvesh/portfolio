@@ -50,8 +50,8 @@ export const projectsData: Project[] = [
     category: "AI-ML",
     image: "📊",
     tech: ["Python", "XGBoost", "Scikit-Learn", "Pandas", "NumPy", "NLP"],
-    github: "https://github.com/solankiSarvesh/citation-prediction-model",
-    demo: "https://github.com/solankiSarvesh/citation-prediction-model",
+    github: "https://github.com/solankiSarvesh/Citation-Prediction-Model",
+    demo: "https://citation-prediction-model-eo35ryzxo9gksgnomjq6wp.streamlit.app/",
     featured: true
   },
   {
@@ -61,8 +61,8 @@ export const projectsData: Project[] = [
     category: "IoT-Embedded",
     image: "🏥",
     tech: ["Java", "Android Studio", "IoT Telemetry", "Bluetooth API"],
-    github: "https://github.com/solankiSarvesh/potentiometric-app",
-    demo: "https://github.com/solankiSarvesh/potentiometric-app",
+    github: "https://github.com/solankiSarvesh/Ion_Detection_app",
+    demo: "https://github.com/solankiSarvesh/Ion_Detection_app",
     featured: true
   },
   {
@@ -83,8 +83,8 @@ export const projectsData: Project[] = [
     category: "AI-ML",
     image: "🎮",
     tech: ["Python", "AI Algorithms", "Minimax", "Game Logic"],
-    github: "https://github.com/solankiSarvesh/ai-tic-tac-toe",
-    demo: "https://github.com/solankiSarvesh/ai-tic-tac-toe",
+    github: "https://github.com/solankiSarvesh/Ai-powered-Tic-Tac-Toe",
+    demo: "https://github.com/solankiSarvesh/Ai-powered-Tic-Tac-Toe",
     featured: false
   }
 ];
